@@ -1,5 +1,5 @@
 <html>
   <body>
-    <title>Registration form</title>
+    Registration form
   </body>
 </html>
